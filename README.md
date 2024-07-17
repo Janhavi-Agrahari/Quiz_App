@@ -1,4 +1,5 @@
-<img src="">
+
+
 # Quiz_App
 
 The Quiz App is a web-based application that allows users to take quizzes on various topics. This app is built using HTML, CSS, and JavaScript and provides an interactive and engaging way for users to test their knowledge.
@@ -25,6 +26,10 @@ The Quiz App is a web-based application that allows users to take quizzes on var
   <li>Open the project directory</li>
   <li>Open index.html in your web browser to start the quiz app.</li>
 </ol>
+
+# Screenshots
+
+<img src="Screenshot 2024-07-17 140638.png">
 
 # Usage
 <ol>
